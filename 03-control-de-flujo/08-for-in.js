@@ -27,3 +27,4 @@ let animales = ['perro', 'gato', 'pez', 'loro'];
 for (let indice in animales) {
     console.log(indice, animales[indice]);
 }
+
