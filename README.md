@@ -1,1 +1,1 @@
-# JavaScrips-cheat-sheet
+# JavaScript-cheat-sheet
