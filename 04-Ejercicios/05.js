@@ -2,7 +2,7 @@
 crear algoritmo que nos muestre el elemento mayor y menor de un array
 */
 
-let array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+let array = [1, 2, 3, 4, 5, 6, -7, 8, 9, 10];
 
 function getMayorMenor(arreglo) {
     let mayor = 0;
